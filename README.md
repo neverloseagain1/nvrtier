@@ -22,10 +22,15 @@ This project was partially created by AI, so there may be bugs. If you encounter
 
 ## Installation
 
-Run the interactive installation script from the project root directory:
+Download repository and run the interactive installation script from the project root directory:
 
 ```bash
+git clone https://github.com/neverloseagain1/nvrtier
+
+cd nvrtier
+
 chmod +x install.sh
+
 ./install.sh
 ```
 
